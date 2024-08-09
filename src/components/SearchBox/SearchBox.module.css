@@ -1,0 +1,11 @@
+.box {
+  width: 300px;
+  margin: 0 auto;
+  & input {
+    width: 100%;
+  }
+}
+
+.name {
+  text-align: center;
+}
